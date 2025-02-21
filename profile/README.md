@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=700&lines=Hi+%F0%9F%91%8B%2C+We+Are+8848+Digital.;Experts+in+Business+%26+ERP+Solutions.;Innovating+with+Developers+%26+Cloud+Experts.;Building+Scalable+Web+%26+Mobile+Applications!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+We+Are+8848+Digital.;Experts+in+Business+%26+ERP+Solutions.;Innovating+with+Developers+%26+Cloud+Experts.;Building+Scalable+Web+%26+Mobile+Applications!)](https://git.io/typing-svg)
+
 
 
 # 🚀 Frappe DevOps | Solution Architect | Cloud & Database Expert
