@@ -31,9 +31,9 @@
 ---
 
 ## 📫 Let's Connect!
-💻 **GitHub**: https://github.com/8848digital  
-🌐 **Website**: https://8848digital.com/  
-📧 **Email**: support@8848digital.com  
+💻 **GitHub**:   https://github.com/8848digital  
+🌐 **Website**:  https://8848digital.com/  
+📧 **Email**:    support@8848digital.com  
 🤝 **LinkedIn**: https://in.linkedin.com/company/8848digital  
 
 🚀 **Open to collaborations, contributions, and exciting projects in Frappe, ERPNext, Cloud, and DevOps!**
